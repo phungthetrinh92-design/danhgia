@@ -1,0 +1,8 @@
+{
+  "name": "Vui Cùng Thể Thao - Lớp 1",
+  "description": "Ứng dụng trò chơi tương tác kiểm tra năng lực Giáo dục thể chất dành cho học sinh lớp 1, sử dụng AI để đánh giá và khuyến khích các em vận động.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
