@@ -1,10 +1,10 @@
 
 import React, { useState } from 'react';
 import { GameState, Question, UserResult } from './types';
-import { GeminiService } from './services/geminiService';
-import StartScreen from './components/StartScreen';
-import GameView from './components/GameView';
-import ResultScreen from './components/ResultScreen';
+import { GeminiService } from './geminiService';
+import StartScreen from './StartScreen';
+import GameView from './GameView';
+import ResultScreen from './ResultScreen';
 
 const gemini = new GeminiService();
 
